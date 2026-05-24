@@ -1,0 +1,12 @@
+# Gemini API
+google-generativeai>=0.8.0
+
+# GUI (Phase 2 で使用)
+PyQt6>=6.6.0
+
+# システムトレイ (Phase 2 で使用)
+pystray>=0.19.5
+Pillow>=10.0.0
+
+# ホットキー (Phase 2 で使用)
+keyboard>=0.13.5
