@@ -17,13 +17,13 @@ pip install -r requirements.txt
 
 **macOS / Linux:**
 ```bash
-export GEMINI_API_KEY="yAIzaSyBAnKo8RNz24UkVC74f1mnRzfsnrrsycsM"
+export GEMINI_API_KEY=""
 # .zshrc や .bashrc に書いておくと永続化できます
 ```
 
 **Windows (PowerShell):**
 ```powershell
-$env:GEMINI_API_KEY = "AIzaSyBAnKo8RNz24UkVC74f1mnRzfsnrrsycsM"
+$env:GEMINI_API_KEY = ""
 # 永続化: システム環境変数から設定
 ```
 
